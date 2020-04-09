@@ -1,2 +1,2 @@
-# jsonData
+# jsondata
 Json Server
