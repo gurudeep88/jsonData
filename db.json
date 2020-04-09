@@ -1,1 +1,8 @@
 
+const users=[
+  {
+   id:1,
+    name:'guru',
+    post:'web-developer'
+  }
+  ]
